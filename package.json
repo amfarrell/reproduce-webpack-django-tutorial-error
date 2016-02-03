@@ -19,6 +19,7 @@
   "devDependencies": {
     "babel": "^6.3.26",
     "babel-loader": "^6.2.1",
+    "babel-plugin-transform-react-jsx": "^6.4.0",
     "react": "^0.14.7",
     "webpack": "^1.12.12",
     "webpack-bundle-tracker": "0.0.93"

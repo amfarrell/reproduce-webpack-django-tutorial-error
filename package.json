@@ -1,0 +1,29 @@
+{
+  "name": "reproduce-webpack-django-tutorial-error",
+  "version": "1.0.0",
+  "description": "Reproducing an error found following the directions at http://owaislone.org/blog/webpack-plus-reactjs-and-django/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amfarrell/reproduce-webpack-django-tutorial-error.git"
+  },
+  "author": "Andrew M. Farrell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amfarrell/reproduce-webpack-django-tutorial-error/issues"
+  },
+  "homepage": "https://github.com/amfarrell/reproduce-webpack-django-tutorial-error#readme",
+  "devDependencies": {
+    "babel": "^6.3.26",
+    "babel-loader": "^6.2.1",
+    "react": "^0.14.7",
+    "webpack": "^1.12.12",
+    "webpack-bundle-tracker": "0.0.93"
+  },
+  "dependencies": {
+    "babel-core": "^6.4.5"
+  }
+}
